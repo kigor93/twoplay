@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>503684648245-fr8jdfppj5638clm03bisvknr35poo93.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.503684648245-fr8jdfppj5638clm03bisvknr35poo93</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>503684648245-8thmts5otoi77ae1ok5un8o0j44kv0sr.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDzBY0XuVOtDnpXDkrckSxaXpJlqzICFNM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>503684648245</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.flutterflow.twoplayapp</string>
+	<key>PROJECT_ID</key>
+	<string>twoplayapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>twoplayapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:503684648245:ios:61c6e4c667afeebe8d907c</string>
+</dict>
+</plist>
